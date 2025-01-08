@@ -19,7 +19,8 @@ Here are some of my last projects:
 ---
 
 ### 🌟 **Goals**
-I’m passionate about building a **productivity ecosystem**—whether it’s through web apps or browser extensions. My ultimate goal is to create tools that help people stay organized, efficient, and focused.
+- I’m passionate about building a **productivity ecosystem**—whether it’s through web apps or browser extensions. My ultimate goal is to create tools that help people stay organized, efficient, and focused.
+- (and also make 2025 my best github contributions year)
 
 ---
 
