@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Sanoun Boussad Juba** (aka **Youva**)
+# 👋 Hi, I'm **Sanoun Boussad Juba** (**Youva**)
 
 ### 💻 **Computer Science Student | Full-Stack Developer | Freelancer**
 Passionate about learning and creating, I've been coding since I was 14. I love exploring everything from **web development** to **UI/UX design**, **video/photo editing**, and even **3D creation**. My goal is to build apps that solve real-world problems and make people's lives easier.
