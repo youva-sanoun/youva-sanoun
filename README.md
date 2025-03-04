@@ -7,8 +7,7 @@ Passionate about learning and creating, I've been coding since I was 14. I love 
 
 ### 🛠️ **Tech Stack**
 Here are the tools and technologies I work with:
-- **Frontend**: HTML, CSS, JavaScript (Vanilla), ReactJS, NextJS
-- **Backend**: Django, ExpressJS
+-> HTML, CSS, JavaScript (Vanilla), Python, C, Java, ReactJS, NextJS, Django, ExpressJS
 ---
 
 ### 🚀 **Projects**
